@@ -1,6 +1,3 @@
-from email.utils import parseaddr
-import random
-
 
 """
 Module overview:
@@ -33,54 +30,59 @@ Module behaviour:
 """
 
 
+import random
 
 
 
 class Rps:
 
-    def __init__(self, choiceList):
-        self.choiceList = choiceList
+    choice_list = ['rock', 'paper', 'scissors'] #declared this outside the init without self
 
-    def get_computer_choice(self,userChoice1):
-        computerChoice = random.choice(self.choiceList)
-        print(f"You picked: {userChoice1}. The computed picked {computerChoice}")
-        self.get_winner(userChoice1, computerChoice)
+    def __init__(self):
+        pass
+        
+        
+
+    def get_computer_choice(self,user_choice):
+        computer_choice = random.choice(Rps.choice_list)
+        print(f"You picked: {user_choice}. The computed picked {computer_choice}")
+        self.get_winner(user_choice, computer_choice)
 
         
 
     def get_user_choice(self):
         while True:
-            userChoice = str(input('please select Rock, Paper or Scissors or type "End Game" to end the game. Your choice: '))
-            userChoice = userChoice.lower()
-            if userChoice == 'end game':
+            user_choice = str(input('please select Rock, Paper or Scissors or type "End Game" to end the game. Your choice: '))
+            user_choice = user_choice.lower()
+            if user_choice == 'end game':
                 break
-            elif userChoice not in self.choiceList:
+            elif user_choice not in Rps.choice_list:
                 print('error, please try again: ')
             else:
-                self.get_computer_choice(userChoice)
+                self.get_computer_choice(user_choice)
 
 
 
-    def get_winner(self, userChoice2, computerChoice2):
-        if computerChoice2 == userChoice2:
+    def get_winner(self, user_choice, computer_choice):
+        if computer_choice == user_choice:
             print("It's a draw!")
-        elif computerChoice2 == 'rock' and userChoice2 == 'scissors':
+        elif computer_choice == 'rock' and user_choice == 'scissors':
             print('You lost')
-        elif computerChoice2 == 'rock' and userChoice2 == 'paper':
+        elif computer_choice == 'rock' and user_choice == 'paper':
             print('You Won')
-        elif computerChoice2 == 'paper' and userChoice2 == 'rock':
+        elif computer_choice == 'paper' and user_choice == 'rock':
             print('You lost')
-        elif computerChoice2 == 'paper' and userChoice2 == 'scissors':
+        elif computer_choice == 'paper' and user_choice == 'scissors':
             print('You won')
-        elif computerChoice2 == 'scissors' and userChoice2 == 'rock':
+        elif computer_choice == 'scissors' and user_choice == 'rock':
             print('You won')
-        elif computerChoice2 == 'scissors' and userChoice2 == 'paper':
+        elif computer_choice == 'scissors' and user_choice == 'paper':
             print('You lost')
         else:
             print('No Result: Seems to be an error somewhere')
 
-def play_rps(choiceList):
-    game = Rps(choiceList)
+def play_rps():
+    game = Rps()
     game.get_user_choice()
 
 
