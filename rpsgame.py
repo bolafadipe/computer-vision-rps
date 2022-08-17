@@ -3,27 +3,26 @@
 Module overview:
     Creates a function called: "play_rps" which gets passed a "choiceList" (which is assigned in "manual_rps" file)
 
-    Creates a class instance called "Rps" with three methods and one initialized attribute:
-        Initialized attribute:
-            choiceList (passed via the class parameters)
+    Creates a class instance called "Rps" with three methods and one declared attribute:
+        Declared variable:
+            choice_list (passed via the class parameters)
         Methods:
             get_computer_choice
             get_user_choice
             get_winner
 
 Module behaviour:
-    "play_rps" function is created and passed the "choiceList" 
-        "game" object is created as an instance of the "Rps" class and is passed the "choiceList"
+    "play_rps" function is called 
+        "game" object is created as an instance of the "Rps" class
         "game.get_user_choice" method is called
-            "get_user_choice" method asks the user for an input and assigns it to the variable 'userChoice'
-            "get_user_choice" method then typecasts & lowers the "userChoice" variable (with basic error handling)
-            "get_user_choice" method then calls the "get_computer_choice" method and passes the 'userChoice' variable along with it as "userChoice"
-                "get_computer_choice" runs with the "userChoice" variable renamed as "userChoice1" (renamed to avoid confusion)
-                "get_computer_choice" method then assigns a random option from the "choicelist" to the variable "computerChoice"
-                "get_computer_choice" method then calls the "get_winner" method and passes it the "userChoice1" and "computerChoice" 
-                    "get_winner" method runs and recieves the two args renamed as "userChoice2" and "computerChoice2" (renamed to avoid confusion)
-                    "get_winner" method then prints the "userChoice2" and "computerChoice2" variables
-                    "get_winner" method then checks uses if-else to check which player wins the game 
+            "get_user_choice" method asks the user for an input and assigns it to the variable 'user_choice'
+            "get_user_choice" method then typecasts & lowers the "user_choice" variable (with basic error handling)
+            "get_user_choice" method then calls the "get_computer_choice" method and passes the 'user_choice' variable along with it
+                "get_computer_choice" is run with the argument "user_choice"
+                "get_computer_choice" method then creates the var "computer_choice" by selecting a random item from the "choice_list" variable
+                "get_computer_choice" method then calls the "get_winner" method and passes it the "user_choice" and "computer_choice" args
+                    "get_winner" method is run with the arguments for "user_choice" and "computer_choice" 
+                    "get_winner" method then uses if-else to check which player wins the game 
                     "get_winner" method then prints the result
 
 
