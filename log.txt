@@ -1,0 +1,1032 @@
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked scissors
+You won
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked rock
+It's a draw!
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock
+3. You picked: rock. The computer picked paper
+You lost
+1. stopped camera
+2. cv_choice var prints: rock

@@ -20,20 +20,23 @@ class CvRps:
 
     def get_prediction(self):        
         
-        ret, frame = CvRps.cap.read()
-        resized_frame = cv2.resize(frame, (224, 224), interpolation = cv2.INTER_AREA)
-        image_np = np.array(resized_frame)
-        normalized_image = (image_np.astype(np.float32) / 127.0) - 1 # Normalize the image
-        CvRps.data[0] = normalized_image
-        cv2.imshow('frame', frame)
-        prediction = CvRps.model.predict(CvRps.data)
         while True:
+            ret, frame = CvRps.cap.read()
+            resized_frame = cv2.resize(frame, (224, 224), interpolation = cv2.INTER_AREA)
+            image_np = np.array(resized_frame)
+            normalized_image = (image_np.astype(np.float32) / 127.0) - 1 # Normalize the image
+            CvRps.data[0] = normalized_image
+            cv2.imshow('frame', frame)
             # Press q to close the window
+            prediction = CvRps.model.predict(CvRps.data)
+            print(prediction)
             current_time = time.time()
             elapsed_time = current_time - CvRps.start_time
             if elapsed_time > CvRps.seconds:
-                self.stop_camera()#call the method to stop the camera
-                self.get_user_choice(prediction)#call the convert the array to a choice
+                break
+        
+        self.stop_camera()#call the method to stop the camera
+        self.get_user_choice(prediction)#call the convert the array to a choice
                 
 
         
@@ -44,6 +47,7 @@ class CvRps:
         pass   
 
     def get_user_choice(self, prediction):
+        print(prediction)
         np.array(prediction) #convert to array
         idx_max = prediction.argmax() #find the max value
         choices = ["rock", "paper", "scissors", "nothing"]
@@ -77,3 +81,4 @@ class CvRps:
 def play_rps():
     game = CvRps()
     game.get_prediction()
+# play_rps()
